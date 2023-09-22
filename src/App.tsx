@@ -1,4 +1,4 @@
-import Background from './components/background'
+import Background from '@Components/background'
 
 const App: React.FC = () => {
     return <Background>App</Background>

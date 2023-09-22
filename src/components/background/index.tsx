@@ -1,4 +1,4 @@
-import { IComponent } from '../../types'
+import { IComponent } from '@Types/components'
 
 const Background: React.FC<IComponent> = ({ children }) => {
     return <>{children}</>
